@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-06-17 12:56:43</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>31309b1bdb53320030f9f91ebf96193d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Requested for email</sys_name>
